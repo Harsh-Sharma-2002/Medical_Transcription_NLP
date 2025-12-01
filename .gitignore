@@ -1,0 +1,10 @@
+requirements.txt
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.vscode/
+Data.zip
+logs/
+Readme.md
+WARP.md
